@@ -1,0 +1,6 @@
+@Semana11LAB_HostAddress = http://localhost:5084
+
+GET {{Semana11LAB_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
